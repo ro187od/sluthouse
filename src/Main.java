@@ -1,3 +1,4 @@
+import menu.MenuMugShop;
 import menu.WhoreHouseMenu;
 
 /*
@@ -18,6 +19,8 @@ VCS -> Enable VSC Integration
  */
 public class Main {
     public static void main(String[] args) {
-        new WhoreHouseMenu();
+
+//        new WhoreHouseMenu();
+        new MenuMugShop();
     }
 }
